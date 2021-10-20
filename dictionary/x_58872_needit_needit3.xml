@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="task" label="NeedIt3" max_length="40" name="x_58872_needit_needit3" sizeclass="1" type="collection">
+        <element label="Test Field" max_length="40" name="test_field" type="integer"/>
+        <element label="Test Field 1" max_length="40" name="test_field_1" type="integer"/>
+        <element label="Test Field 2" max_length="40" name="test_field_2" type="integer"/>
+    </element>
+</database>
